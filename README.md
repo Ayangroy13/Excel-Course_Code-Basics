@@ -84,3 +84,35 @@ Wrap text lets you display the cell contents over multiple lines instead of one.
 ![Task - 3](https://github.com/Ayangroy13/Excel-Course_Code-Basics/assets/165015521/328ac020-e065-41f8-915f-ea3aa83500cd)
 
 ![Task - 4](https://github.com/Ayangroy13/Excel-Course_Code-Basics/assets/165015521/7bf0e012-b3b1-4759-b702-09d6fd06beed)
+
+### Day 2:
+
+• Data cleaning is an important step in the data analysis process because it ensures that the data is accurate and reliable.
+
+• The TRIM() function eliminates extra spaces in the text, including those at the start and end.
+
+• Conditional Formatting helps to identify and highlight duplicate data in a range of cells.
+
+• The "Text to Columns" feature helps to split a single cell containing text into multiple cells based on a specified delimiter, such as a comma, semicolon, or space.
+
+• VLOOKUP function is used to look up a value in a table by searching for a corresponding value in the leftmost column of another table.
+
+• Syntax of the VLOOKUP() function is: VLOOKUP (lookup_value, table_array, col_index_num, [range_lookup])
+
+• Some limitations of VLookup:
+
+- It searches only the first column of a reference table for a matching value.
+
+Adding a new column to the reference table can cause errors by shifting column indexes and changing the referenced columns.
+
+• INDEX() and MATCH() are two powerful Excel functions that are often used together to search for and retrieve data from a table or range.
+
+• The syntax of the INDEX() function is: INDEX(array, row_num, [column_num]).
+
+• The syntax of the MATCH() function is: MATCH(lookup_value, lookup_array, [match_type]).
+
+• The syntax of the XLOOKUP() function is: XLOOKUP(lookup_value, lookup_array, return_array, [if_not_found], [match_mode]).
+
+• Unlike VLOOKUP, which only searches in the leftmost column of a table, XLOOKUP is capable of searching in any column.
+
+![image](https://github.com/Ayangroy13/Excel-Course_Code-Basics/assets/165015521/b803c496-2c1d-45ac-ad34-d75a1b621ad4)
