@@ -1,5 +1,5 @@
 
-# Introduction to Econometrics
+# Excel: Mother of Business Intelligence
 
 ## Course Overview
 
