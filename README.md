@@ -116,3 +116,59 @@ Adding a new column to the reference table can cause errors by shifting column i
 • Unlike VLOOKUP, which only searches in the leftmost column of a table, XLOOKUP is capable of searching in any column.
 
 ![image](https://github.com/Ayangroy13/Excel-Course_Code-Basics/assets/165015521/b803c496-2c1d-45ac-ad34-d75a1b621ad4)
+
+### Day 3:
+
+• Business Knowledge + Business Math & Statistics = KPIs (Key Performance Indicators)
+
+• Formulas covered: IF, SUM, SUMIF, COUNT, COUNTIF, AVERAGE
+
+• Null values can be handled in different ways based on the business situation:
+
+• Delete that data
+
+• Replace with the mean or median value
+
+• Revenue - Budget = Profit/Loss
+
+• Budget is the baseline for calculating the Profit/Loss percentage.
+
+• Market Value: Total revenue of all the movies.
+
+• Market Share: The revenue contribution of a particular industry to the overall market value.
+
+• Target: Estimated revenue for a particular time period.
+
+• Use conditional formatting to highlight values that are above or below a certain threshold.
+
+• With 20% of statistics, you can cover 80% of your work.
+
+• Mean - Synonym for Average.
+
+• Median - Middle value of a dataset when it is ordered in ascending order.
+
+• If the dataset has an even number of values, the median is the average of the two middle values.
+
+• Mode - Most frequently occurring data value.
+
+• Variance is a measure of how spread out a distribution is. It is calculated as the
+
+average of the squared differences from the mean.
+
+• The smaller the variance, the less spread out the data is. Conversely, the larger the variance, the more spread out the data is.
+
+• Standard deviation is a measure of the amount of variation or dispersion of a set of values. It is calculated as the square root of the variance.
+
+• The smaller the standard deviation, the closer the data points are to the mean. Conversely, the larger the standard deviation, the more spread out the data points are.
+
+• The stock market's volatility is the best use case for variance and standard deviation.
+
+• Correlation is a statistical measure that shows the degree to which two variables are related.
+
+• A correlation coefficient can range from -1 to 1
+
+4-1 (perfect negative correlation) < 0 (no correlation) <1 (perfect positive correlation)
+
+![image](https://github.com/Ayangroy13/Excel-Course_Code-Basics/assets/165015521/62282cb8-c79b-477d-bb46-3b21a0b9744d)
+
+![image](https://github.com/Ayangroy13/Excel-Course_Code-Basics/assets/165015521/642c230a-6346-4208-b548-efe56b85a81d)
