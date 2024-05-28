@@ -172,3 +172,39 @@ average of the squared differences from the mean.
 ![image](https://github.com/Ayangroy13/Excel-Course_Code-Basics/assets/165015521/62282cb8-c79b-477d-bb46-3b21a0b9744d)
 
 ![image](https://github.com/Ayangroy13/Excel-Course_Code-Basics/assets/165015521/642c230a-6346-4208-b548-efe56b85a81d)
+
+### Day 4:
+
+• As a Data Analyst, it may be difficult to survive without Pivot tables.
+
+• You can insert a Pivot table either in the same worksheet or in a new worksheet.
+
+• Pivot tables make it easy to summarize data.
+
+• Pivot tables allow you to slice and dice data in any format you want.
+
+• To create a pivot table, follow these steps: Insert > Pivot Table > Select the table/range > Create Pivot Table
+
+• You can use the recommended pivot table for several use cases. Make sure to explore all other options available in the pivot table.
+
+• Power Pivot is a data modeling tool for Microsoft Excel. It allows users to create relationships between tables and perform advanced calculations with large amounts of data.
+
+• To create measures, we can use the DAX (Data Analysis Expression) language.
+
+• Primary key: It is a column or combination of columns that uniquely identifies each row in a table. Foreign key: It is a column or combination of columns that refers to the primary key of another table and establishes a link between the two tables.
+
+• Don't become obsessed with tools; instead, develop a problem-solving mindset to experience exponential growth in your career.
+
+• Break down complex problems into small chunks to solve them effectively.
+
+• Use the SUMX([table], [expression]) function to add up the values in a table based on a specified expression.
+
+• In accounting, negative values are represented using brackets.
+
+• To highlight interesting data points, use conditional formatting.
+
+• Pivot tables allow you to sort data based on different values.
+
+• You can make pivot tables more presentable by using formatting and other options. - Pivot tables are very similar to the matrix visualizations that you will use in Bi tools.
+
+![image](https://github.com/Ayangroy13/Excel-Course_Code-Basics/assets/165015521/5ebe7f07-7a4f-4d76-a5ce-a6e33658aee3)
