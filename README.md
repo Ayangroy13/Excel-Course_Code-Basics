@@ -242,7 +242,11 @@ average of the squared differences from the mean.
 • The CALCULATE() function allows you to apply filters to your data and perform calculations based on those filtered results.
 
 • The basic syntax of the CALCULATE() function is: CALCULATE (expression, filterl, filter2, ...)
+![image](https://github.com/Ayangroy13/Excel-Course_Code-Basics/assets/165015521/15d1158b-5ec7-4a19-bd5d-20099874884e)
 
+![image](https://github.com/Ayangroy13/Excel-Course_Code-Basics/assets/165015521/f2ce6a54-acba-43be-abd7-c28f72f92cb4)
+
+![image](https://github.com/Ayangroy13/Excel-Course_Code-Basics/assets/165015521/14209024-55a8-4772-af1a-5b353660517f)
 ### Day 6:
 
 • Designing User Empathetic Reports requires giving significant consideration to User Readability and Time to Action.
@@ -258,3 +262,5 @@ average of the squared differences from the mean.
 • The MONTH() function is a date and time function used to extract the month number from a date.
 
 • The ROUNDUP() function is used to round a number up to a specified number of digits. The syntax for the ROUNDUP() function is: ROUNDUP(number, num_digits)
+
+![image](https://github.com/Ayangroy13/Excel-Course_Code-Basics/assets/165015521/cf8bc6a8-a81e-4898-8aa9-2846ce0753b0)
