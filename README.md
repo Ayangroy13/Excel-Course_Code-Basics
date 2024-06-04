@@ -208,3 +208,53 @@ average of the squared differences from the mean.
 • You can make pivot tables more presentable by using formatting and other options. - Pivot tables are very similar to the matrix visualizations that you will use in Bi tools.
 
 ![image](https://github.com/Ayangroy13/Excel-Course_Code-Basics/assets/165015521/5ebe7f07-7a4f-4d76-a5ce-a6e33658aee3)
+
+### Day 5:
+
+• ETL stands for Extract, Transform, Load. It refers to the process of extracting data from various sources, transforming the data to fit the desired data model or format, and loading the data into a target data store or destination.
+
+• Power Query transforms and connects data from different sources, such as databases and spreadsheets, into a format suitable for analysis and reporting.
+
+✓ Ensure there are no missing values
+
+✓ Ensure all dimension tables contain a unique column
+
+✓ Ensure there are no errors / #na in column
+
+✓ Check spellings randomly
+
+• Data cleaning in Power Query involves the process of identifying and correcting inaccuracies, inconsistencies, and errors in data to ensure that it is accurate and usable for analysis and reporting. 
+
+• Giving proper names to Power Query steps can make your queries more organized and easier to understand. Data modeling involves the process of connecting different data sets together by establishing the relationships between them.
+
+• The Star schema is a data modeling technique that arranges data into a central fact table, surrounded by several dimension tables.
+
+• Google and ChatGPT are your friends. Refer to them whenever you encounter any challenges.
+
+• A Calendar Year is a 12-month period starting on January 1st and ending on December 31st.
+
+• A Fiscal Year is a 12-month period used by organizations for accounting and financial reporting purposes, which can begin on any date.
+
+• AtliQ Hardware follows a fiscal year that runs from September through August.
+
+• A Pivot Table is a powerful tool that allows you to summarize and analyze large amounts of data quickly and easily.
+
+• The CALCULATE() function allows you to apply filters to your data and perform calculations based on those filtered results.
+
+• The basic syntax of the CALCULATE() function is: CALCULATE (expression, filterl, filter2, ...)
+
+### Day 6:
+
+• Designing User Empathetic Reports requires giving significant consideration to User Readability and Time to Action.
+
+• Conditional Formatting helps to format cells based on specific conditions or criteria. It helps to highlight important data, identify trends, and improve data readability.
+
+• A P&L (profit and loss) statement is a financial report that provides an overview of a company's financial performance over a period of time, typically a month, quarter, or year.
+
+• P&L statements include several critical metrics, such as Net Sales, Cost Of Goods Sold (COGS), Gross Margin, Gross Margin %, etc. These metrics evaluate a company's financial performance, profitability, and pricing tactics.
+
+• The FORMAT function is used to format a number or a date/time value into a specific format. The syntax for the FORMAT() function is: FORMAT(value, format_text)
+
+• The MONTH() function is a date and time function used to extract the month number from a date.
+
+• The ROUNDUP() function is used to round a number up to a specified number of digits. The syntax for the ROUNDUP() function is: ROUNDUP(number, num_digits)
