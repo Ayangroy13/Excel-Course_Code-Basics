@@ -3,7 +3,7 @@
 
 ## Course Overview
 
-Excel courses for beginners to advanced users who are training for a career in data (particularly data analysts). Experts in the field have carefully selected this course to imitate real-world situations and get you ready to fit in with the market. In addition, you will receive hands-on practice tasks and a simulated experience of utilising Excel to solve problems as a data analyst.
+Excel courses for beginners to advanced users who are training for a career in data (particularly data analysts). Experts in the field have carefully selected this course to imitate real-world situations and get you ready to fit in with the market. In addition, you will receive hands-on practice tasks and a simulated experience of utilizing Excel to solve problems as a data analyst.
 
 ## Course Coordinator 
 ### Dhaval Patel
